@@ -1,0 +1,7 @@
+{
+	"name": "my-scrap-project",
+	"version": "0.0",
+	"buildTag": "latest",
+	"env": null,
+	"template": "hello_world"
+}
